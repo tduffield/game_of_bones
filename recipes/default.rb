@@ -7,7 +7,7 @@
 #execute 'ned_stark'
 #execute 'robb_stark'
 #execute 'oberyn_martell'
-#execute 'joffrey_baratheon'
+execute 'joffrey_baratheon'
 #execute 'rently_baratheon'
 #execute 'robert_baratheon'
 #execute 'catelyn_stark'
