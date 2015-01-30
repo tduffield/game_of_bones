@@ -1,0 +1,6 @@
+enterprise = "Chef"
+git_port = "8989"
+organization = "sandbox"
+pipeline = "master"
+server = "192.168.33.66"
+user = "tom"
