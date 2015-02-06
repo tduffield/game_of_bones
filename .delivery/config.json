@@ -1,8 +1,9 @@
 {
   "version": "1",
-  "build_cookbook": "delivery_truck",
+    "build_cookbook": "delivery_truck",
+    "skipped_phases": ["functional", "lint", "smoke", "security"],
   "build_nodes": {
-    "default"    : ["name:builder*"]
+    "default"    : ["name:delivery-builder*"]
   },
   "build_attributes": {
     "lint": {
